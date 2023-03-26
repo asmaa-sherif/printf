@@ -23,7 +23,7 @@ int print_char(va_list types, char buffer[],
 /**
  * print_string - Prints a string
  * @types: List a of arguments
- * @buffer: Buffer array to handle print
+ * @buffer: Buffer array to handle 
  * @flags:  Calculates active flags
  * @width: get width.
  * @precision: Precision specification
